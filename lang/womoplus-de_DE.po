@@ -1,0 +1,113 @@
+# Copyright (C) 2017 Womoplus
+# This file is distributed under the same license as the Womoplus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Womoplus\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/womoplus\n"
+"POT-Creation-Date: 2019-11-18 11:49+0100\n"
+"PO-Revision-Date: 2019-11-18 11:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "womoplus"
+msgstr ""
+
+#. Description of the plugin
+msgid "Provides integration of the womoplus rent software."
+msgstr ""
+
+#. Author of the plugin
+msgid "ebenefuenf.de"
+msgstr ""
+
+#: womoplus.php:62
+msgid "Main Settings"
+msgstr "Grundeinstellungen"
+
+#: womoplus.php:63
+msgid "Proxy Prefix"
+msgstr ""
+
+#: womoplus.php:64
+msgid "Page Name (URL Base)"
+msgstr "Seitenname (innerhalb derer die Einbindung erfolgt)"
+
+#: womoplus.php:65
+msgid "DOM Element"
+msgstr ""
+
+#: womoplus.php:66
+msgid "DSGVO URL (for link in booking form)"
+msgstr "DSGVO URL (zur Verlinkung in Buchungsformular)"
+
+#: womoplus.php:67
+msgid "Your Email"
+msgstr "Ihre E-Mail-Adresse (zur Verlinkung im Buchungsformular)"
+
+#: womoplus.php:68
+msgid "Show index in Navigation"
+msgstr "Link zur Hauptseite anzeigen"
+
+#: womoplus.php:69
+msgid "Show sales area"
+msgstr "Verkaufsbereich anzeigen"
+
+#: womoplus.php:70
+msgid "Use Google Places Search"
+msgstr "Umkreissuche verwenden (Google Account notwendig)"
+
+#: womoplus.php:71
+msgid ""
+"Do not load google maps script (to avoid conflicts with already loaded "
+"script)"
+msgstr ""
+"Google Maps Script innerhalb des Plugins nicht laden (behebt Konflikte "
+"wenn das Skript schon geladen wurde)"
+
+#: womoplus.php:72
+msgid "Show filters for campers only"
+msgstr "Nur die Filter für Camper anzeigen"
+
+#: womoplus.php:73
+msgid "Min. Calendar Range Selection"
+msgstr "Kalender Mindestauswahl (in Tagen)"
+
+#: womoplus.php:74
+msgid "Custom text after no result"
+msgstr "Benutzerdef. Text wenn kein Suchergebnis"
+
+#: womoplus.php:75
+msgid "Custom text after booking date"
+msgstr "Benutzerdef. Text bei Datumsauswahl"
+
+#: womoplus.php:76
+msgid "Custom footer text"
+msgstr "Benutzerdef. Text Fußzeile"
+
+#: womoplus.php:77
+msgid "Custom CSS Styles"
+msgstr "Benutzerdef. CSS Styles"
+
+#: womoplus.php:80
+msgid "Settings to integrate womoplus in your site."
+msgstr "Einstellungen zur Integration von womoplus in ihre Webseite."
+
+#: womoplus.php:159
+msgid "Womoplus Options"
+msgstr "Womoplus Optionen"
+
+#~ msgid "Save Changes"
+#~ msgstr "Speichern"
+
+#~ msgid "Provides a client for the Womoplus application"
+#~ msgstr "Stellt einen Client für die Anwendung Womoplus zur Verfügung"
+
+#~ msgid "Main description of this section here."
+#~ msgstr "Beschreibung der Grundeinstellungen ist hier."
